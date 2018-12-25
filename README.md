@@ -19,5 +19,5 @@
 
 ## Copyright
 
-Copyright © 2017 Drakohka95. See [license] for details.
-[license]: LICENSE.txt
+Copyright © 2017 Drakohka95. See LICENSE.txt for details.
+
