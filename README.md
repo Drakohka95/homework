@@ -13,3 +13,11 @@
   _*Данные команды представлены для консоли sbt shell_
   
 [![Build Status](https://travis-ci.org/Drakohka95/homework.svg?branch=master)](https://travis-ci.org/Drakohka95/homework)
+
+[![Coverage](https://codecov.io/gh/Drakohka95/homework/branch/master/graph/badge.svg)](https://codecov.io/gh/Drakohka95/homework)
+
+
+## Copyright
+
+Copyright © 2017 Drakohka95. See [license] for details.
+[license]: LICENSE.txt
