@@ -11,7 +11,7 @@ object hangmanDo {
     first + myChar ++ second.tail
   }
 
-  private def doGame(miss: Int = 0, table: String): String = {
+  def doGame(miss: Int = 0, table: String): String = {
     if (miss == mistakesCount) {
       println("You lost!")
       table
