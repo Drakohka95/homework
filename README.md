@@ -6,6 +6,8 @@
 Запустить игру:  
   **run Game**  
 Запустить тест:  
-  **testOnly hangmanTest**
+  **testOnly hangmanTest**  
+Запустить cтатический анализ стиля кодирования:  
+  **scalastyle**
   
   _*Данные команды представлены для консоли sbt shell_
