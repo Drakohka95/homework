@@ -11,3 +11,5 @@
   **scalastyle**
   
   _*Данные команды представлены для консоли sbt shell_
+  
+[![Build Status](https://travis-ci.org/Drakohka95/homework.svg?branch=master)](https://travis-ci.org/Drakohka95/homework)
